@@ -1,0 +1,7 @@
+# local
+.env
+
+# misc
+.idea
+*.sw*
+**/.DS_Store
